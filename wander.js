@@ -10,6 +10,7 @@ const wander = {
     'https://susam.net/jokes.html',
     'https://aprilscable.neocities.org/',
     'https://autumnstuff.wordpress.com/',
+    'https://aprilscable.neocities.org/dating/',
     'https://hisahito.neocities.org/',
     'https://bjoern.stierand.org/',
     'https://burgeonlab.com/',
