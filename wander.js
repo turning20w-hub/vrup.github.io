@@ -8,6 +8,8 @@ const wander = {
   pages: [
     'https://susam.net/',
     'https://susam.net/jokes.html',
+    'https://aprilscable.neocities.org/',
+    'https://hisahito.neocities.org/',
   ],
 
   // Websites and consoles to ignore.  My console will never fetch
