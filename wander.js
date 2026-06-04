@@ -20,4 +20,8 @@ const wander = {
     'https://humblebrags.example/',
     'https://*.midreadpopup.example/',
   ],
+
+  styles: [
+    'style.css',
+    ],
 }
