@@ -9,7 +9,33 @@ const wander = {
     'https://susam.net/',
     'https://susam.net/jokes.html',
     'https://aprilscable.neocities.org/',
+    'https://autumnstuff.wordpress.com/',
     'https://hisahito.neocities.org/',
+    'https://bjoern.stierand.org/',
+    'https://burgeonlab.com/',
+    'https://mandarismoore.com/',
+    'https://jeremycherfas.net/',
+    'https://axxuy.com/',
+    'https://shellsharks.com/',
+    'https://letorey.co.uk/',
+    'https://bearly-creative.de/',
+    'https://brennan.day/',
+    'https://forkingmad.blog/',
+    'https://paultibbetts.uk/',
+    'https://jamesg.blog/',
+    'https://tracydurnell.com/',
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
   ],
 
   // Websites and consoles to ignore.  My console will never fetch
@@ -20,8 +46,4 @@ const wander = {
     'https://humblebrags.example/',
     'https://*.midreadpopup.example/',
   ],
-
-  styles: [
-    'style.css',
-    ],
 }
