@@ -1,4 +1,4 @@
-# vrup.github.io
+# vrupwander.github.io
 Site. Inspired. 
 
 More info -
